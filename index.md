@@ -12,12 +12,14 @@ So dammit that's what we're going to do. Monastic PRE is schismatic sect of the 
 
 Don't believe us? Leviticus 19:28: “You shall not make styles on your website...” Hithero mistranlated from the Hebrew as a prohibition against tattoos. 
 
+
 MEMBERS
 -------
 
 Join our monestary by emailing makgill@protonmail.ch. We will list you as a member. Be be warned. Strict compliance must be observed. If the bulk of your website is not plain preformatted text, we will delist you.
 
 - https://0x000m.github.io
+
 
 SUPPORT
 -------
