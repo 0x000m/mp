@@ -8,9 +8,9 @@ PREFORMAT MONASTICS
 
 I was messing around on the computer tonight and suddenly had the idea to start a web design cult. But how to distinguish this cult from the other web design cults out there online? 1mb Club, 512kb Club, 250kb Club, XHMTL Luddites, and most recently the No CSS Club. I know! I'll be more radical than they are. Unfortunately, the most radical of them doesn't give me much left to work with except preformatted tags.
 
-So dammit that's what we're going to do. Preformat Monastics is schismatic sect of the minimal web that thinks all other sects are cowardly compromisers and LARPERS probably controlled by Satan or the WEF or The Bloom Institute of Technology who only pretend to want a RETVRN to the golden age of the web. We teach that plain, completely unstyled TEXT is biblical and next to godliness, and that any compromise on this can only lead to an ever escalating cycle of web bloat and unoriginal bootstrap design,
+So dammit that's what we're going to do. Preformat Monastics is schismatic sect of the minimal web that thinks all other sects are cowardly compromisers and LARPERs probably controlled by Satan or the WEF or The Bloom Institute of Technology who only pretend to want a RETVRN to the golden age of the web. We teach that plain, completely unstyled TEXT is biblical and next to godliness, and that any compromise on this can only lead to an ever escalating cycle of web bloat and unoriginal bootstrap design.
 
-Don't believe us? Leviticus 19:28: “You shall not make styles on your website...” Hithero mistranlated from the Hebrew as a prohibition against tattoos. 
+Leviticus 19:28: “You shall not make styles on your website...” Hithero mistranlated from the Hebrew as a prohibition against tattoos. 
 
 Genesis 6:17: "And, behold, I, even I, do bring a scourage upon the internet, to destroy all websites which have HTML markup, styles and CSS...[and] every thing that [is] in on the web shall die."
 
