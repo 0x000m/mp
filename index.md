@@ -18,3 +18,10 @@ MEMBERS
 Join our monestary by emailing makgill@protonmail.ch. We will list you as a member. Be be warned. Strict compliance must be observed. If the bulk of your website is not plain preformatted text, we will delist you.
 
 - https://0x000m.github.io
+
+SUPPORT
+-------
+
+PUT A DOLLAR IN THE BOX AND SPARE YOUR SOUL HOURS OF CSS DEBUG PURGATORY.
+
+https://en.liberapay.com/tdarb
