@@ -3,8 +3,8 @@ layout: default
 ---
 
 <pre class="col">
-Preformat Monastics
---------------
+PREFORMAT MONASTICS
+-------------------
 
 I was messing around on the computer tonight and suddenly had the idea to start a web design cult. But how to distinguish this cult from the other web design cults out there online? 1mb Club, 512kb Club, 250kb Club, XHMTL Luddites, and most recently the No CSS Club. I know! I'll be more radical than they are. Unfortunately, the most radical of them doesn't give me much left to work with except preformatted tags.
 
